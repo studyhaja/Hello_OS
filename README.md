@@ -8,62 +8,62 @@
 - [@Einsicht1](https://github.com/Einsicht1)
 
 ## 규칙
-- 매주 **한챕터씩** 공부해온뒤 서로 설명한다.
+- 매주 정해진 챕터를 공부해온뒤 서로 설명한다.
 
 ## 목차
-1. Computer System Overview
-- What is OS?
-- Computer Hardware
+### 1. [Computer System Overview](L1_computer_System_Overview)
+- [What is OS?](L1_computer_System_Overview/Computer_HW.md)
+- [Computer Hardware](L1_computer_System_Overview/Computer_HW.md)
 
-2. [OS Overview](L2_OS_Overview)
+### 2. [OS Overview](L2_OS_Overview)
 - [Role of Operating System (OS)](L2_OS_Overview/1_Role_of_Operating_System.md)
-- Classification of OSs
-- OS Architecture, OS Features
+- [Classification of OSs](L2_OS_Overview/2_Classification_of_OS.md)
+- [OS Architecture, OS Features](L2_OS_Overview/3_Architecture_Feature_of_OS.md)
 
-3. Process management
+### 3. Process management
 - What is the process?
 - Process state
 - Interrupt handling
 
-4. Thread management
+### 4. Thread management
 - What is the thread?
 - Implementation of thread
 
-5. Process Scheduling
+### 5. Process Scheduling
 - Goals of scheduling
 - Criteria and Levels of scheduling, Scheduling policy
 - Basic scheduling algorithms (FCFC, RR, SPN, SRTN, HRRN, MLQ, MFQ)
 
-6. Process Synchronization and Mutual Exclusion
+### 6. Process Synchronization and Mutual Exclusion
 - Process synchronization
 - Mutual exclusion (Low-level mechanism, High-level mechanism)
 
-7. Deadlock
+### 7. Deadlock
 - Definition of the deadlock
 - Deadlock model
 - Deadlock resolution (Deadlock prevention, avoidance, detection & recovery)
 
-8. Memory management
+### 8. Memory management
 - Address binding
 - Continuous memory allocation (Uni-Programming, Multi-Programming (FPM, VPM))
 
-9. Virtual Memory
+### 9. Virtual Memory
 - Non-continuous memory allocation
 - Virtual storage methods (Paging system, Segmentation system, Hybrid paging/segmentation system)
 
-10. Virtual Memory Management
+### 10. Virtual Memory Management
 - Cost model
 - HW components, SW components
 - Page replacement scheme (FA-based, VA-based)
 - Other considerations
 
-11. File System
+### 11. File System
 - Disk System
 - File System
 - Directory Structure
 - File Protection, File System Implementation
 
-12. I/O System & Disk Management
+### 12. I/O System & Disk Management
 - I/O Mechanisms, I/O Service of OS
 - Disk Scheduling
 - RAID Architecture
