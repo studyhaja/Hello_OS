@@ -16,7 +16,7 @@
 - Computer Hardware
 
 2. [OS Overview](L2_OS_Overview)
-- [Role of Operating System (OS)](L2_OS_Overview/1_Role_of_Operating_System)
+- [Role of Operating System (OS)](L2_OS_Overview/1_Role_of_Operating_System.md)
 - Classification of OSs
 - OS Architecture, OS Features
 
