@@ -26,14 +26,14 @@
 사용자가 불법적인 형태로 시스템을 사용하려고 할때 그로부터 보호함
 
 ## 컴퓨터 시스템의 구성
-![](https://images.velog.io/images/langssi/post/045d1ad0-f28e-4239-8ac4-3acfaea6a898/image.png)
+![image](https://user-images.githubusercontent.com/45524783/114297543-1d54fb00-9aec-11eb-8a97-7113b9b3ffb6.png)
 ### Kernel
 운영체제의 핵심을 모아놓은 것(뒤에서 자세히)
 ### System Call Interface
 - 사용자가 직접 커널을 엑세스하거나 조작하면 OS가 하드웨어를 제어하는데 문제를 야기할 수 있으므로 필요한 기능이 있을때 커널에 요청을 하는 통로
 - 즉, 커널이 제공하는 기능들 중 사용자가 사용할 수 있는 기능들을 모아놓은 것들
 ### 커널이 하는 일들
-![](https://images.velog.io/images/langssi/post/284fa0fd-6f62-4ec7-b247-660578e0fd1f/image.png)
+![image](https://user-images.githubusercontent.com/45524783/114297565-35c51580-9aec-11eb-9a8f-d68965fb2609.png)
 
 ## 운영체제의 구분
 ### 동시 사용자수
