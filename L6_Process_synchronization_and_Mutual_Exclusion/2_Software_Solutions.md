@@ -10,7 +10,8 @@
 - Eventcount/sequencer
 ### Language-Level solution
 - Monitor
-
+---
+# Software Solutions
 ## Dekker's Algorithm
 - Two process ME을 보장하는 최초의 알고리즘
 - turn과 flag를 둘다 씀
