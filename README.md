@@ -45,7 +45,7 @@
 ### 7. [Deadlock](https://github.com/studyhaja/Hello_OS/tree/main/L7_Deadlock)
 - [Definition of the Deadlock](https://github.com/studyhaja/Hello_OS/blob/main/L7_Deadlock/1_Deadlock_and_Resource_types.md)
 - [Deadlock Model](https://github.com/studyhaja/Hello_OS/blob/main/L7_Deadlock/2_Deadlock_Model.md)
-- Deadlock resolution 
+- Deadlock Resolution 
    - [Deadlock Prevention](https://github.com/studyhaja/Hello_OS/blob/main/L7_Deadlock/3_Deadlock_Prevention.md)
    - Deadlock Avoidance
    - Deadlock Detection & Recovery
