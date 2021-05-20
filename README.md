@@ -51,6 +51,7 @@
    - Deadlock Detection & Recovery
 
 ### 8. Memory management
+- [Backgrounds](https://github.com/studyhaja/Hello_OS/blob/main/L8_Memeory_Management/1_backrounds.md)
 - Address binding
 - Continuous memory allocation (Uni-Programming, Multi-Programming (FPM, VPM))
 
