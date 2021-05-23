@@ -38,7 +38,8 @@
 - [Process synchronization and Mutual exclusion](https://github.com/studyhaja/Hello_OS/blob/main/L6_Process_synchronization_and_Mutual_Exclusion/1_Process_Synchronization_and_Multi_Exclusion.md)
 - [Software Solutions](https://github.com/studyhaja/Hello_OS/blob/main/L6_Process_synchronization_and_Mutual_Exclusion/2_Software_Solutions.md)
 - [Hardware Solutions](https://github.com/studyhaja/Hello_OS/blob/main/L6_Process_synchronization_and_Mutual_Exclusion/3_Hareware_Solutions.md)
-- [OS Supported SW Solutions_and_Language_level_solution](https://github.com/studyhaja/Hello_OS/blob/main/L6_Process_synchronization_and_Mutual_Exclusion/4_OS_Supported_SW_Solutions-Spinlock.md)
+- [OS Supported SW Solutions and Language Level Solutions](https://github.com/studyhaja/Hello_OS/blob/main/L6_Process_synchronization_and_Mutual_Exclusion/4_OS_Supported_SW_Solutions_and_Language_level_solution.md)
+- [Samaphore, Eventcount/Sequencer, Monitor](https://github.com/studyhaja/Hello_OS/blob/main/L6_Process_synchronization_and_Mutual_Exclusion/5_Semaphore.md)
 ### 7. [Deadlock](https://github.com/studyhaja/Hello_OS/tree/main/L7_Deadlock)
 - [Definition of the Deadlock](https://github.com/studyhaja/Hello_OS/blob/main/L7_Deadlock/1_Deadlock_and_Resource_types.md)
 - [Deadlock Model](https://github.com/studyhaja/Hello_OS/blob/main/L7_Deadlock/2_Deadlock_Model.md)
@@ -47,10 +48,10 @@
    - [Deadlock Avoidance](https://github.com/studyhaja/Hello_OS/blob/main/L7_Deadlock/4_Deadlock_avoidance.md)
    - [Deadlock Detection & Recovery](https://github.com/studyhaja/Hello_OS/blob/main/L7_Deadlock/5_Deadlock_detection_and_recovery.md)
 
-### 8. Memory management
+### 8. [Memory management](https://github.com/studyhaja/Hello_OS/tree/main/L8_Memeory_Management)
 - [Backgrounds](https://github.com/studyhaja/Hello_OS/blob/main/L8_Memeory_Management/1_backrounds.md)
-- Address binding
-- Continuous memory allocation (Uni-Programming, Multi-Programming (FPM, VPM))
+- [Continuous Memory Allocation](https://github.com/studyhaja/Hello_OS/blob/main/L8_Memeory_Management/2_continous_memory_allocation.md)
+- [Variable Partition Multiprogramming](https://github.com/studyhaja/Hello_OS/blob/main/L8_Memeory_Management/3_variable_partition_multiprogramming.md)
 
 ### 9. Virtual Memory
 - Non-continuous memory allocation
