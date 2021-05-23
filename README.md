@@ -47,10 +47,10 @@
    - [Deadlock Avoidance](https://github.com/studyhaja/Hello_OS/blob/main/L7_Deadlock/4_Deadlock_avoidance.md)
    - [Deadlock Detection & Recovery](https://github.com/studyhaja/Hello_OS/blob/main/L7_Deadlock/5_Deadlock_detection_and_recovery.md)
 
-### 8. Memory management
+### 8. [Memory management](https://github.com/studyhaja/Hello_OS/tree/main/L8_Memeory_Management)
 - [Backgrounds](https://github.com/studyhaja/Hello_OS/blob/main/L8_Memeory_Management/1_backrounds.md)
-- Address binding
-- Continuous memory allocation (Uni-Programming, Multi-Programming (FPM, VPM))
+- [Continuous Memory Allocation](https://github.com/studyhaja/Hello_OS/blob/main/L8_Memeory_Management/2_continous_memory_allocation.md)
+- [Variable Partition Multiprogramming](https://github.com/studyhaja/Hello_OS/blob/main/L8_Memeory_Management/3_variable_partition_multiprogramming.md)
 
 ### 9. Virtual Memory
 - Non-continuous memory allocation
