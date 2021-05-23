@@ -39,6 +39,7 @@
 - [Software Solutions](https://github.com/studyhaja/Hello_OS/blob/main/L6_Process_synchronization_and_Mutual_Exclusion/2_Software_Solutions.md)
 - [Hardware Solutions](https://github.com/studyhaja/Hello_OS/blob/main/L6_Process_synchronization_and_Mutual_Exclusion/3_Hareware_Solutions.md)
 - [OS Supported SW Solutions and Language Level Solutions](https://github.com/studyhaja/Hello_OS/blob/main/L6_Process_synchronization_and_Mutual_Exclusion/4_OS_Supported_SW_Solutions_and_Language_level_solution.md)
+- [Samaphore, Eventcount/Sequencer, Monitor](https://github.com/studyhaja/Hello_OS/blob/main/L6_Process_synchronization_and_Mutual_Exclusion/5_Semaphore.md)
 ### 7. [Deadlock](https://github.com/studyhaja/Hello_OS/tree/main/L7_Deadlock)
 - [Definition of the Deadlock](https://github.com/studyhaja/Hello_OS/blob/main/L7_Deadlock/1_Deadlock_and_Resource_types.md)
 - [Deadlock Model](https://github.com/studyhaja/Hello_OS/blob/main/L7_Deadlock/2_Deadlock_Model.md)
