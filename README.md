@@ -30,25 +30,22 @@
 - [Implementation of thread](L4_Thread_Management/1_Implementation_of_thread.md)
 
 ### 5. [Process Scheduling](https://github.com/studyhaja/Hello_OS/tree/main/L5_Process_Scheduling)
-- Goals of scheduling
-- Criteria and Levels of scheduling, Scheduling policy
-- Basic scheduling algorithms (FCFC, RR, SPN, SRTN, HRRN, MLQ, MFQ)
+- [Goals of scheduling](https://github.com/studyhaja/Hello_OS/tree/main/L5_Process_Scheduling/1_Goals_of_scheduling.md)
+- [Criteria and Levels of scheduling, Scheduling policy](https://github.com/studyhaja/Hello_OS/tree/main/L5_Process_Scheduling/2_Criteria_and_Levels_of_scheduling.md)
+- [Basic scheduling algorithms (FCFC, RR, SPN, SRTN, HRRN, MLQ, MFQ)](https://github.com/studyhaja/Hello_OS/tree/main/L5_Process_Scheduling/4_Scheduling_algorithm.md)
 
 ### 6. [Process Synchronization and Mutual Exclusion](https://github.com/studyhaja/Hello_OS/tree/main/L6_Process_synchronization_and_Mutual_Exclusion)
 - [Process synchronization and Mutual exclusion](https://github.com/studyhaja/Hello_OS/blob/main/L6_Process_synchronization_and_Mutual_Exclusion/1_Process_Synchronization_and_Multi_Exclusion.md)
 - [Software Solutions](https://github.com/studyhaja/Hello_OS/blob/main/L6_Process_synchronization_and_Mutual_Exclusion/2_Software_Solutions.md)
 - [Hardware Solutions](https://github.com/studyhaja/Hello_OS/blob/main/L6_Process_synchronization_and_Mutual_Exclusion/3_Hareware_Solutions.md)
-- OS Supported SW Solutions
-   - [Spinlock](https://github.com/studyhaja/Hello_OS/blob/main/L6_Process_synchronization_and_Mutual_Exclusion/4_OS_Supported_SW_Solutions%20-%20Spinlock.md)
-   - Semaphore, EventCounter, Sequencer
-- Monitor
+- [OS Supported SW Solutions_and_Language_level_solution](https://github.com/studyhaja/Hello_OS/blob/main/L6_Process_synchronization_and_Mutual_Exclusion/4_OS_Supported_SW_Solutions-Spinlock.md)
 ### 7. [Deadlock](https://github.com/studyhaja/Hello_OS/tree/main/L7_Deadlock)
 - [Definition of the Deadlock](https://github.com/studyhaja/Hello_OS/blob/main/L7_Deadlock/1_Deadlock_and_Resource_types.md)
 - [Deadlock Model](https://github.com/studyhaja/Hello_OS/blob/main/L7_Deadlock/2_Deadlock_Model.md)
 - Deadlock Resolution 
    - [Deadlock Prevention](https://github.com/studyhaja/Hello_OS/blob/main/L7_Deadlock/3_Deadlock_Prevention.md)
-   - Deadlock Avoidance
-   - Deadlock Detection & Recovery
+   - [Deadlock Avoidance](https://github.com/studyhaja/Hello_OS/blob/main/L7_Deadlock/4_Deadlock_avoidance.md)
+   - [Deadlock Detection & Recovery](https://github.com/studyhaja/Hello_OS/blob/main/L7_Deadlock/5_Deadlock_detection_and_recovery.md)
 
 ### 8. Memory management
 - [Backgrounds](https://github.com/studyhaja/Hello_OS/blob/main/L8_Memeory_Management/1_backrounds.md)
