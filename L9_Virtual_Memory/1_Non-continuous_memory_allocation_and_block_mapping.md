@@ -21,7 +21,7 @@
   - 프로그램의 시작 주소를 0으로 가정한 주소
 - Relocation(재배치)
   - 메모리 할당 후, 할당된 주소(allocation address)에 따라 상대 주소들을 조정하는 작업
-  <img width="1029" alt="스크린샷 2021-05-23 오후 2 29 49" src="https://user-images.githubusercontent.com/70195733/119249422-62804880-bbd3-11eb-92e2-b92b27ccc4be.png">
+<img width="1029" alt="스크린샷 2021-05-23 오후 2 29 49" src="https://user-images.githubusercontent.com/70195733/119249422-62804880-bbd3-11eb-92e2-b92b27ccc4be.png">
 
 ### Non-continuous allocation
 - Virtual address(가상 주소) = relative address
@@ -51,7 +51,7 @@
 1. 프로세스의 BMT 접근
 2. BMT에서 block b에 대한 항목(entry)를 찾음
 3. Residence bit 검사
-  3-1. Residence bit = 0인 경우, swap device에서 해당 블록을 메모리로 가져옴. BMT 업데이트 후 3-2 수행 
-  3-2. Residence bit = 1인 경우, BMT에서 b에 대한 readl address 값 a 확인
+  <br>3-1. Residence bit = 0인 경우, swap device에서 해당 블록을 메모리로 가져옴. BMT 업데이트 후 3-2 수행 
+  <br>3-2. Residence bit = 1인 경우, BMT에서 b에 대한 readl address 값 a 확인
 4. 실제 주소 r 계산(r = a + d)
 5. r을 이용하여 메모리에 접근
