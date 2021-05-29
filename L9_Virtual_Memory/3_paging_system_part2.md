@@ -40,10 +40,12 @@
   - k1: Branch(k1, d)
 - P2
   - k2: Branch(k2, d)
-- Problem
+  
+=> 같은 메모리 주소임에도 불구하고 Branch(k1, d), Branch(k2, d)로 각각 부르는 주소가 달라짐. P2에서 주황 메모리 위치를 기대하여 Branch(K1, d)를 참조하면 완전히 다른 곳을 참조하게 됨
+#### Problem
   - 모두 같은 주소지만 부르는 주소가 달라져 다른 프로세스에서 엉뚱한 곳으로 갈 수 있음
 
-- Solution
+#### Solution
   ![](https://images.velog.io/images/langssi/post/000c7a13-4379-4c6c-84eb-31fd02a03f6a/image.png)
   - 프로세스들이 shared page에 대한 정보를 PMT의 같은 entry에 저장하도록 함(부르는 이름 통일)
   
