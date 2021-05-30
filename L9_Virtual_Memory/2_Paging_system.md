@@ -75,3 +75,25 @@
   - Associative high-speed memory
 - PMT를 병렬 탐색
 - Low overhead, high speed
+- Expensive hardware
+  - 큰 PMT를 다루기 어렵다.
+<img width="808" alt="스크린샷 2021-05-30 오후 2 41 06" src="https://user-images.githubusercontent.com/70195733/120093531-e0090300-c155-11eb-9f02-70826cf660ea.png">
+
+
+### Address Mapping - Hybrid Direct/Associative Mapping
+- 두 기법 혼합
+  - HW 비용 줄이고, Associative mapping 장점 활용
+- 작은 TLB 사용
+  - PMT: 메모리(커널 공간)에 저장
+  - TLB: PMT중 일부 entry들을 적재
+    - 최근에 사용된 page들에 대한 entry 저장
+  - Locality(지역성) 활용
+    - 프로그램의 수행과정에서 한 번 접근한 영역을 다시 접근(temporal locality)또는 인접 영역을 다시 접근(spatial locality)할 가능성이 높음
+
+#### Hybrid방법 순서
+- 프로세스의 PMT가 TLB에 적재되어 있는지 확인<br>
+(1) TLB에 적재되어 있는 경우 -> residence bit을 검사하고 page frame번호 확인<br>
+(2) TLB에 적재되어 있지 않은 경우 -> direct mapping으로 page frame번호 확인 후 해당 PMT entry를 TLB에 적재함.
+<img width="830" alt="스크린샷 2021-05-30 오후 2 51 19" src="https://user-images.githubusercontent.com/70195733/120093627-82c18180-c156-11eb-8a0e-f7fa8ad028aa.png">
+
+
