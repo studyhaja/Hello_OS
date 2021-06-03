@@ -58,8 +58,8 @@
 - Virtual storage methods (Paging system, Segmentation system, Hybrid paging/segmentation system)
 
 ### 10. Virtual Memory Management
-- Cost model
-- HW components, SW components
+- [Cost model, HW components](https://github.com/studyhaja/Hello_OS/blob/main/L10_Virtual_Memory_Management/1_Cost_model_HW_components.md)
+- SW components
 - Page replacement scheme (FA-based, VA-based)
 - Other considerations
 
