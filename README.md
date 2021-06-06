@@ -59,7 +59,7 @@
 
 ### 10. Virtual Memory Management
 - [Cost model, HW components](https://github.com/studyhaja/Hello_OS/blob/main/L10_Virtual_Memory_Management/1_Cost_model_HW_components.md)
-- SW components
+- [SW components](https://github.com/studyhaja/Hello_OS/blob/main/L10_Virtual_Memory_Management/2_sw_components.md)
 - Page replacement scheme (FA-based, VA-based)
 - Other considerations
 
