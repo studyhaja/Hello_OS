@@ -64,9 +64,9 @@
 - Other considerations
 
 ### 11. File System
-- Disk System
-- File System
-- Directory Structure
+- [Disk System](https://github.com/studyhaja/Hello_OS/blob/main/L11_File_System/1_disk_system.md)
+- [File System](https://github.com/studyhaja/Hello_OS/blob/main/L11_File_System/2_file_system_overview.md)
+- [Directory Structure](https://github.com/studyhaja/Hello_OS/blob/main/L11_File_System/3_directory_structure.md)
 - File Protection, File System Implementation
 
 ### 12. I/O System & Disk Management
