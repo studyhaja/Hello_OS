@@ -59,14 +59,14 @@
 
 ### 10. Virtual Memory Management
 - [Cost model, HW components](https://github.com/studyhaja/Hello_OS/blob/main/L10_Virtual_Memory_Management/1_Cost_model_HW_components.md)
-- SW components
+- [SW components](https://github.com/studyhaja/Hello_OS/blob/main/L10_Virtual_Memory_Management/2_sw_components.md)
 - Page replacement scheme (FA-based, VA-based)
 - Other considerations
 
 ### 11. File System
-- Disk System
-- File System
-- Directory Structure
+- [Disk System](https://github.com/studyhaja/Hello_OS/blob/main/L11_File_System/1_disk_system.md)
+- [File System](https://github.com/studyhaja/Hello_OS/blob/main/L11_File_System/2_file_system_overview.md)
+- [Directory Structure](https://github.com/studyhaja/Hello_OS/blob/main/L11_File_System/3_directory_structure.md)
 - File Protection, File System Implementation
 
 ### 12. I/O System & Disk Management
