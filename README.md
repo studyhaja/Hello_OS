@@ -70,6 +70,6 @@
 - File Protection, File System Implementation
 
 ### 12. I/O System & Disk Management
-- I/O Mechanisms, I/O Service of OS
+- [I/O Mechanisms, I/O Service of OS](https://github.com/studyhaja/Hello_OS/blob/main/12.%20IO_System_Disk_Management/1_IO_System.md)
 - Disk Scheduling
 - RAID Architecture
