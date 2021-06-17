@@ -71,5 +71,5 @@
 
 ### 12. I/O System & Disk Management
 - [I/O Mechanisms, I/O Service of OS](https://github.com/studyhaja/Hello_OS/blob/main/12.%20IO_System_Disk_Management/1_IO_System.md)
-- Disk Scheduling
+- [Disk Scheduling](https://github.com/studyhaja/Hello_OS/blob/main/12.%20IO_System_Disk_Management/2_disk_scheduling.md)
 - RAID Architecture
